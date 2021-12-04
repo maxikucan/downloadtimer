@@ -1,0 +1,19 @@
+body{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family:sans-serif;
+}
+
+header{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 10px;
+    align-items: center;
+    background-color: rgba(129, 130, 131, 0.301);
+}
+
+.calcu{
+    width: 40%;
+    margin: 0 auto;
+}
